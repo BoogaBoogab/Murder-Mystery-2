@@ -1,0 +1,9 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/BoogaBoogab/Murder-Mystery-2/main/MM2.lua'),true))()
+
+--READ IMPORTANT READ IMPORTANT READ IMPORTANT READ IMPORTANT READ IMPORTANT READ IMPORTANTREAD IMPORTANT READ IMPORTANTREAD IMPORTANT READ IMPORTANTREAD IMPORTANT READ IMPORTANTREAD IMPORTANT READ IMPORTANT
+
+-- Default Keybinds
+-- Speed Bind = V
+-- Notify Roles Bind = C
+-- ESP ONLY FOR MURDER AND SHERIFF = B
+-- AIMBOT/Silent Aim 100% hit chance Keybind = G
